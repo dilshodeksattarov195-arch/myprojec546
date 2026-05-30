@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderencrypt",
+        "uuid": 709254,
+        "checksum": "w4mrpd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
